@@ -1,0 +1,2 @@
+Este é um arquivo de marcação para garantir que a pasta de imagens seja criada.
+A imagem de perfil padrão (profile-placeholder.jpg) deve ser colocada nesta pasta.
