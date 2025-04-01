@@ -192,6 +192,17 @@ body {
     margin: 0;
 }
 
+.copyright a {
+    color: #aaa;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.copyright a:hover {
+    color: #4a6fa5;
+    text-decoration: none;
+}
+
 .copyright:hover {
     opacity: 1;
 }

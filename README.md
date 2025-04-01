@@ -105,11 +105,11 @@ No arquivo `index.html`, localize e edite:
 ```html
 <!-- Copyright discreto -->
 <div class="copyright">
-    <p>&copy; 2025 Ismael</p>
+    <p><a href="https://ismaelpereira.com" target="_blank">&copy; 2025 Ismael Pereira. Todos os direitos reservados.</a></p>
 </div>
 ```
 
-Você pode personalizar o nome ou removê-lo completamente se desejar.
+Você pode personalizar o nome, o link e o texto do copyright conforme necessário.
 
 ## 📋 Estrutura de Arquivos
 
